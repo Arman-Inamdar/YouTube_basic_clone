@@ -1,0 +1,23 @@
+HTML CRASH COURSE
+
+Block element= takes up the entire line
+Inline-Block element= only takes up as much space as needed
+Inline element= appears within a line of text
+
+div = box
+
+
+NESTED LAYOUT- HORIZONTAL, VERTICAL
+
+GRID = LAYOUT WITH ROWS AND COLUMNS 
+
+position
+
+fixed= placed in browser window
+absolute= placed on the page
+
+/* inset for inside  */
+
+/* max-width is the max limit it will extend on growing */
+
+
